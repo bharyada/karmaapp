@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/karmaapp/static/css/main.65013fef.chunk.css",
+    "main.js": "/karmaapp/static/js/main.da2fabf0.chunk.js",
+    "main.js.map": "/karmaapp/static/js/main.da2fabf0.chunk.js.map",
+    "runtime~main.js": "/karmaapp/static/js/runtime~main.a42cb50a.js",
+    "runtime~main.js.map": "/karmaapp/static/js/runtime~main.a42cb50a.js.map",
+    "static/css/2.92583b84.chunk.css": "/karmaapp/static/css/2.92583b84.chunk.css",
+    "static/js/2.4d17177a.chunk.js": "/karmaapp/static/js/2.4d17177a.chunk.js",
+    "static/js/2.4d17177a.chunk.js.map": "/karmaapp/static/js/2.4d17177a.chunk.js.map",
+    "index.html": "/karmaapp/index.html",
+    "precache-manifest.385e34f53e6a56c7ded4e49d8c4c50d4.js": "/karmaapp/precache-manifest.385e34f53e6a56c7ded4e49d8c4c50d4.js",
+    "service-worker.js": "/karmaapp/service-worker.js",
+    "static/css/2.92583b84.chunk.css.map": "/karmaapp/static/css/2.92583b84.chunk.css.map",
+    "static/css/main.65013fef.chunk.css.map": "/karmaapp/static/css/main.65013fef.chunk.css.map",
+    "static/media/App.css": "/karmaapp/static/media/testi-bg.b28fd2ea.jpg",
+    "static/media/Adot.png": "/karmaapp/static/media/Adot.f5b2b07e.png",
+    "static/media/font-awesome.min.css": "/karmaapp/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
