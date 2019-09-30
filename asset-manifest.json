@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/karmaapp/static/css/main.89599b36.chunk.css",
-    "main.js": "/karmaapp/static/js/main.3dd28c88.chunk.js",
-    "main.js.map": "/karmaapp/static/js/main.3dd28c88.chunk.js.map",
+    "main.css": "/karmaapp/static/css/main.1205fd6c.chunk.css",
+    "main.js": "/karmaapp/static/js/main.c159fb4f.chunk.js",
+    "main.js.map": "/karmaapp/static/js/main.c159fb4f.chunk.js.map",
     "runtime~main.js": "/karmaapp/static/js/runtime~main.a42cb50a.js",
     "runtime~main.js.map": "/karmaapp/static/js/runtime~main.a42cb50a.js.map",
     "static/css/2.92583b84.chunk.css": "/karmaapp/static/css/2.92583b84.chunk.css",
     "static/js/2.4d17177a.chunk.js": "/karmaapp/static/js/2.4d17177a.chunk.js",
     "static/js/2.4d17177a.chunk.js.map": "/karmaapp/static/js/2.4d17177a.chunk.js.map",
     "index.html": "/karmaapp/index.html",
-    "precache-manifest.a5d2f2dd8c94145e2bef272e75b00211.js": "/karmaapp/precache-manifest.a5d2f2dd8c94145e2bef272e75b00211.js",
+    "precache-manifest.7748855397da6fee3ba7f7a37d5f86b5.js": "/karmaapp/precache-manifest.7748855397da6fee3ba7f7a37d5f86b5.js",
     "service-worker.js": "/karmaapp/service-worker.js",
     "static/css/2.92583b84.chunk.css.map": "/karmaapp/static/css/2.92583b84.chunk.css.map",
-    "static/css/main.89599b36.chunk.css.map": "/karmaapp/static/css/main.89599b36.chunk.css.map",
+    "static/css/main.1205fd6c.chunk.css.map": "/karmaapp/static/css/main.1205fd6c.chunk.css.map",
     "static/media/App.css": "/karmaapp/static/media/testi-bg.b28fd2ea.jpg",
     "static/media/Adot.png": "/karmaapp/static/media/Adot.f5b2b07e.png",
     "static/media/font-awesome.min.css": "/karmaapp/static/media/fontawesome-webfont.fee66e71.woff"
