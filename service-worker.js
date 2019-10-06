@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/karmaapp/precache-manifest.7748855397da6fee3ba7f7a37d5f86b5.js"
+  "/karmaapp/precache-manifest.400293388f0767143aa0b418636654f2.js"
 );
 
 self.addEventListener('message', (event) => {
